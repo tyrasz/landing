@@ -1,0 +1,16 @@
+.hero-banner {
+  background-image: url(../../images/background.png);
+  background-size: cover;
+  background-position: center;
+  padding: 200px 0;
+}
+
+.hero-banner h1 {
+  color: white;
+}
+
+.hero-banner p {
+  color: white;
+  opacity: .7;
+  font-size: 20px;
+}
